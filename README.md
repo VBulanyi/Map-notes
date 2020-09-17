@@ -18,10 +18,15 @@ https://map-notes-du3xzi6xc.vercel.app/
 #
 # Развертывание:
  Server:
+
  npm run start - production mode
+
  npm run dev - development mode
 
  Client:
+ 
  cd client
+
  npm run start - development mode
+
  npm run build - create a production build
