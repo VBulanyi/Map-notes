@@ -10,10 +10,8 @@ https://map-notes-du3xzi6xc.vercel.app/
 
 # Использованные технологии
 #
-Frontend:
 - React
 - OAuth 2.0
-Backend:
 - NodeJS
 - Apollo Server
 - GraphQL
